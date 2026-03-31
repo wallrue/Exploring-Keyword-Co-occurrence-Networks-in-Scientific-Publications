@@ -8,5 +8,5 @@ This project analyzes how research keywords appear together in academic publicat
 
 ### Repository Contents
 * `data/keywords_data.csv`: Source dataset of articles and keyword columns.
-* `analysis.py`: Python implementation using Pandas, NetworkX, and Matplotlib.
+* `notebooks/Le_Minh-Tuong.Project 3.ipynb`: Python implementation using Pandas, NetworkX, and Matplotlib.
 * `report.md`: Detailed interpretation of the network results.
